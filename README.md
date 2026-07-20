@@ -19,13 +19,6 @@
 
 直接双击 `todo.html` 用浏览器打开即可使用，无需安装任何环境。
 
-### 部署到 GitHub Pages
-
-1. 将本仓库文件上传到 GitHub
-2. 在仓库 **Settings → Pages** 中，选择从 `main` 分支的根目录发布
-3. 访问 `https://<你的用户名>.github.io/<仓库名>/` 即可在线使用
-
-> 提示：把 `todo.html` 重命名为 `index.html` 放在仓库根目录，GitHub Pages 会默认加载它。
 
 ## 📁 文件结构
 
